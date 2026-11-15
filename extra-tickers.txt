@@ -1,0 +1,2 @@
+# Une valeur par ligne (ticker Yahoo), pour suivre un titre absent de data/universe.json
+# Exemple : ALO.PA
